@@ -1,5 +1,6 @@
 import numpy as np 
 
+"cambio 2"
 mu = 2
 sigma = 0.8
 n=1500
